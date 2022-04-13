@@ -11,5 +11,5 @@
     - **Controller**: Recebe as requisições das views e chamar o model correto.  
 - Uma pasta para cada um.
 
-![](5-ArquiteturaMVC.png)
-![](5-ArquiteturaMVC2.png)
+![](img/5-ArquiteturaMVC.png)
+![](img/5-ArquiteturaMVC2.png)

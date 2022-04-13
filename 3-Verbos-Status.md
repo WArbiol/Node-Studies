@@ -37,4 +37,4 @@
 - Respsotas de erro do servidor.
 
 # Arquitetura Cliente-Servior com HTTP
-![](3-Arquitetura-Cliente-Servior-HTTP.png)
+![](img/3-Arquitetura-Cliente-Servior-HTTP.png)
