@@ -1,0 +1,15 @@
+{
+  "name": "var_ambientes-dotenv",
+  "version": "1.0.0",
+  "description": "Sempre que usamos **senhas tokens, strings** específicas   - Sempre é uma boa idéia usar uma variavel de ambiente. - Podemos usar e reusa-la em vários códigos. - E ainda teremos mais segurança",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
