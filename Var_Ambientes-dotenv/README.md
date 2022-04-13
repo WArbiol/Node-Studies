@@ -16,4 +16,4 @@ Quando definirmos a variavel no .env não precisamos (e não devemos) usar nota�
 
 Para ter acesso à variavel devemos requerir: `require('dotenv/config')`
 
-ADICIONAR AO **.gitignore** o .env ou *.env
+ADICIONAR AO **.gitignore** O **.env** OU ***.env**
