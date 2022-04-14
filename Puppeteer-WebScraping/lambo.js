@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: true}) //launch chromium
+    const browser = await puppeteer.launch({ headless: fl}) //launch chromium
     const page = await browser.newPage()
     await page.goto("https://www.lamborghini.com/en-en")
     await page.screenshot({path: "lambo1.png"})
