@@ -53,6 +53,10 @@ show collections
 ```
 db.<nome_da_collection>.insert(<Obeto Json>)
 ```
+### Inserir vários: 
+```
+db.<nome_da_collection>.insertMany([<Obeto Json1> , <Obeto Json2> , <Obeto Json3> , ...])
+``` 
 #### Ou
 ```
 db.<nome_da_collection>.save(<Obeto Json>)
