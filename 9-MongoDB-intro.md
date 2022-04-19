@@ -74,7 +74,11 @@ db.<nome_da_collection>.find(<dentificador do objeto json>)
 db.<nome_da_collection>.update(<dentificador do objeto json>, <Novo objeto json>)
 ```
 ##### Se vazio é o documento completo 
-## Deletar
+## Deletar objetos jsons
 ```
 db.<nome_da_collection>.deleteOne(<dentificador do objeto json>
+```
+## Deletar collections (drop)
+```
+db.<collection>.drop()
 ```
